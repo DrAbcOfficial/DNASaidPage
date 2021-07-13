@@ -21,7 +21,7 @@ body
 @font-face
 {
     font-family: "Cyberpunk Is Not Dead";
-    src: url("/CIND.woff2") format("woff2");
+    src: url("../woff/CIND.woff2") format("woff2");
 }
 .title
 {
