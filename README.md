@@ -2,4 +2,4 @@
 
 页面
 
-https://drabcrealone.github.io/DNASaidPage/
+https://drabcofficial.github.io/DNASaidPage/
